@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-27T09:44:48 IST" name="Suite" finished-at="2023-02-27T09:44:51 IST" duration-ms="2894">
+    <groups>
+    </groups>
+    <test started-at="2023-02-27T09:44:48 IST" name="Students" finished-at="2023-02-27T09:44:51 IST" duration-ms="2894">
+      <class name="api.test.StudentTests2">
+        <test-method is-config="true" signature="setdata()[pri:0, instance:api.test.StudentTests2@5c7933ad]" started-at="2023-02-27T09:44:48 IST" name="setdata" finished-at="2023-02-27T09:44:49 IST" duration-ms="605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdata -->
+        <test-method signature="testCreateStudent()[pri:1, instance:api.test.StudentTests2@5c7933ad]" started-at="2023-02-27T09:44:49 IST" name="testCreateStudent" finished-at="2023-02-27T09:44:51 IST" duration-ms="1800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateStudent -->
+        <test-method signature="testGetStudent()[pri:2, instance:api.test.StudentTests2@5c7933ad]" started-at="2023-02-27T09:44:51 IST" name="testGetStudent" finished-at="2023-02-27T09:44:51 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetStudent -->
+        <test-method signature="testUpdateStudent()[pri:3, instance:api.test.StudentTests2@5c7933ad]" started-at="2023-02-27T09:44:51 IST" name="testUpdateStudent" finished-at="2023-02-27T09:44:51 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateStudent -->
+        <test-method signature="testDeleteStudent()[pri:4, instance:api.test.StudentTests2@5c7933ad]" started-at="2023-02-27T09:44:51 IST" name="testDeleteStudent" finished-at="2023-02-27T09:44:51 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteStudent -->
+      </class> <!-- api.test.StudentTests2 -->
+    </test> <!-- Students -->
+  </suite> <!-- Suite -->
+</testng-results>
